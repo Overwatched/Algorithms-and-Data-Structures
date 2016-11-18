@@ -1,5 +1,3 @@
-package PascalRecursive;
-
 /**
  * Recursive implementation of pascals triangle. Prints n amount of rows in pascals triangle.
  * Ugly fix in order to be able to choose direction of the pyramid.
